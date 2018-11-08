@@ -1,2 +1,1 @@
-# hello_git
-My first experience
+# hello-world-github TER
